@@ -1,4 +1,4 @@
-def dez():
+def your_data():
     name="alvin"
     age= 24
     course= "Python programming"
