@@ -1,2 +1,2 @@
 def dez():
-    name="alvinz" 
+    name="alvin" 
